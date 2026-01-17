@@ -23,13 +23,12 @@ if not os.path.exists(QUESTIONS_DIR):
 
 for file in os.listdir(QUESTIONS_DIR):
     if file.endswith(".json"):
-        with open(os.path.join(QUESTIONS_DIR, file), "r", encoding="utf-8") as f:
+        path = os.path.join(QUESTIONS_DIR, file)
+        with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
-
             # Support {"questions": [...]}
             if isinstance(data, dict) and "questions" in data:
                 data = data["questions"]
-
             QUESTION_BANKS[file.replace(".json", "")] = data
 
 # --------------------------------------------------
@@ -54,7 +53,7 @@ app.add_middleware(
 )
 
 # --------------------------------------------------
-# API Router (DEFINE FIRST)
+# API Router
 # --------------------------------------------------
 api = APIRouter(prefix="/api")
 
@@ -68,9 +67,7 @@ class StartQuizRequest(BaseModel):
     end: Optional[int] = None
     mode: str = "test"
 
-# --------------------------------------------------
-# API Endpoints
-# --------------------------------------------------
+# ------------------- API ENDPOINTS -------------------
 @api.get("/banks")
 def get_banks():
     return {"banks": list(QUESTION_BANKS.keys())}
@@ -79,13 +76,9 @@ def get_banks():
 def start_quiz(data: StartQuizRequest):
     if data.mode not in ("test", "study"):
         raise HTTPException(400, "Mode must be 'test' or 'study'")
-
     if data.bank not in QUESTION_BANKS:
         raise HTTPException(404, f"Bank '{data.bank}' not found")
-
-    session_id = quiz_engine.start_session(
-        data.bank, data.count, data.start, data.end
-    )
+    session_id = quiz_engine.start_session(data.bank, data.count, data.start, data.end)
     quiz_engine.sessions[session_id]["mode"] = data.mode
     return {"session_id": session_id}
 
@@ -101,13 +94,10 @@ def submit_answer(session_id: str, answer: Answer):
     session = quiz_engine.sessions.get(session_id)
     if not session:
         raise HTTPException(404, "Session not found")
-
     result = quiz_engine.submit_answer(session_id, answer.answer)
-
     if session["mode"] == "study":
         q = session["questions"][session["index"] - 1]
         result["correct_answer"] = q["options"][q["answer"]]
-
     return result
 
 @api.post("/end/{session_id}")
@@ -117,12 +107,12 @@ def end_quiz(session_id: str):
     return result
 
 # --------------------------------------------------
-# REGISTER API ROUTER (IMPORTANT: BEFORE STATIC)
+# REGISTER API ROUTER FIRST
 # --------------------------------------------------
 app.include_router(api)
 
 # --------------------------------------------------
-# SERVE FRONTEND (LAST)
+# SERVE FRONTEND (MOUNT LAST)
 # --------------------------------------------------
 if os.path.exists(FRONTEND_DIR):
     app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")
