@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Quiz App</title>
+<style>
+body { font-family: Arial, sans-serif; background: linear-gradient(to right,#1f1c2c,#928dab); color:#fff; display:flex; justify-content:center; align-items:center; min-height:100vh; margin:0; }
+#quiz-container { background: rgba(0,0,0,0.7); padding:30px; border-radius:15px; width:100%; max-width:500px; box-shadow:0 0 20px #000; }
+h1 { text-align:center; }
+button { padding:10px 20px; margin-top:15px; font-size:16px; border:none; border-radius:8px; cursor:pointer; background-color:#6c63ff; color:#fff; }
+select, input[type=number] { width:100%; padding:8px; margin:8px 0; border-radius:5px; border:none; font-size:16px; }
+.option-btn { display:block; width:100%; text-align:left; margin:5px 0; padding:10px; border-radius:8px; background-color:#444; cursor:pointer; border:none; }
+.option-btn:hover { background-color:#666; }
+.correct { background-color:green !important; }
+.wrong { background-color:red !important; }
+</style>
+</head>
+<body>
+<div id="quiz-container">
+<h1>Global Quiz App</h1>
+<div id="start-screen">
+<label>Choose Bank:</label>
+<select id="bank-select"></select>
+<label>Number of Questions:</label>
+<input type="number" id="question-count" value="5" min="1">
+<label>Mode:</label>
+<select id="mode-select">
+<option value="test">Test</option>
+<option value="study">Study</option>
+</select>
+<button onclick="startQuiz()">Start Quiz</button>
+</div>
+
+<div id="quiz-screen" style="display:none;">
+<p id="question-text"></p>
+<div id="options-container"></div>
+<p id="feedback" style="margin-top:10px;"></p>
+</div>
+
+<div id="end-screen" style="display:none;">
+<h2 id="score-text"></h2>
+<button onclick="retryQuiz()">Retry Same Bank</button>
+<button onclick="changeBank()">Change Bank</button>
+</div>
+</div>
+
+<script>
+let API_BASE = window.location.hostname.includes("localhost") ? "http://127.0.0.1:8000/api" : "https://semifictional-argillitic-emilio.ngrok-free.dev/api";
+let sessionId = null;
+
+// Load banks
+async function loadBanks() {
+    try {
+        const res = await fetch(`${API_BASE}/banks`);
+        const data = await res.json();
+        const select = document.getElementById("bank-select");
+        select.innerHTML = "";
+        data.banks.forEach(bank => {
+            const opt = document.createElement("option");
+            opt.value = bank;
+            opt.textContent = bank;
+            select.appendChild(opt);
+        });
+    } catch(e) { console.error("Failed to load banks:", e); }
+}
+loadBanks();
+
+async function startQuiz() {
+    const bank = document.getElementById("bank-select").value;
+    const count = parseInt(document.getElementById("question-count").value);
+    const mode = document.getElementById("mode-select").value;
+    const res = await fetch(`${API_BASE}/start`, {
+        method:"POST", headers:{"Content-Type":"application/json"}, 
+        body: JSON.stringify({bank,count,mode})
+    });
+    const data = await res.json();
+    sessionId = data.session_id;
+    document.getElementById("start-screen").style.display="none";
+    document.getElementById("quiz-screen").style.display="block";
+    loadQuestion();
+}
+
+async function loadQuestion() {
+    const res = await fetch(`${API_BASE}/question/${sessionId}`);
+    const data = await res.json();
+    if(data.finished){ showEndScreen(); return; }
+    document.getElementById("question-text").textContent=`Q${data.index}/${data.total}: ${data.question}`;
+    const container = document.getElementById("options-container");
+    container.innerHTML="";
+    data.options.forEach(option=>{
+        const btn=document.createElement("button");
+        btn.textContent=option;
+        btn.className="option-btn";
+        btn.onclick=()=>submitAnswer(option,btn);
+        container.appendChild(btn);
+    });
+    document.getElementById("feedback").textContent="";
+}
+
+async function submitAnswer(option, btn) {
+    const res = await fetch(`${API_BASE}/answer/${sessionId}`, {
+        method:"POST", headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({answer:option})
+    });
+    const data = await res.json();
+    if(data.correct===true) btn.classList.add("correct"); else btn.classList.add("wrong");
+    if(data.correct_answer) document.getElementById("feedback").textContent=`Correct Answer: ${data.correct_answer}`;
+    setTimeout(loadQuestion,1000);
+}
+
+async function showEndScreen() {
+    const res = await fetch(`${API_BASE}/end/${sessionId}`, {method:"POST"});
+    const data = await res.json();
+    document.getElementById("quiz-screen").style.display="none";
+    document.getElementById("end-screen").style.display="block";
+    document.getElementById("score-text").textContent=`Score: ${data.final_score}/${data.total}`;
+}
+
+function retryQuiz() { document.getElementById("end-screen").style.display="none"; startQuiz(); }
+function changeBank() { document.getElementById("end-screen").style.display="none"; document.getElementById("start-screen").style.display="block"; }
+</script>
+</body>
+</html>

@@ -1,0 +1,2752 @@
+[
+  {
+    "id": 1,
+    "question": "The basic structural and functional unit of life is:",
+    "options": {
+      "a": "Tissue",
+      "b": "Organ",
+      "c": "Cell",
+      "d": "System"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "Cell membrane is mainly composed of:",
+    "options": {
+      "a": "Protein only",
+      "b": "Lipid only",
+      "c": "Phospholipid bilayer",
+      "d": "Carbohydrate"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "Major lipid of cell membrane:",
+    "options": {
+      "a": "Cholesterol",
+      "b": "Triglyceride",
+      "c": "Phospholipid",
+      "d": "Glycolipid"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "Fluid mosaic model was proposed by:",
+    "options": {
+      "a": "Watson and Crick",
+      "b": "Singer and Nicolson",
+      "c": "Darwin",
+      "d": "Hooke"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Organelle responsible for ATP production:",
+    "options": {
+      "a": "Ribosome",
+      "b": "Golgi apparatus",
+      "c": "Mitochondria",
+      "d": "Lysosome"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "Powerhouse of the cell:",
+    "options": {
+      "a": "Nucleus",
+      "b": "Mitochondria",
+      "c": "ER",
+      "d": "Golgi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Ribosomes are responsible for:",
+    "options": {
+      "a": "Lipid synthesis",
+      "b": "Protein synthesis",
+      "c": "ATP synthesis",
+      "d": "DNA replication"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Smooth ER is involved in:",
+    "options": {
+      "a": "Protein synthesis",
+      "b": "Lipid synthesis",
+      "c": "Ribosome formation",
+      "d": "DNA synthesis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Rough ER has:",
+    "options": {
+      "a": "DNA",
+      "b": "Ribosomes",
+      "c": "Lipids",
+      "d": "Glycogen"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Golgi apparatus function:",
+    "options": {
+      "a": "Protein packaging",
+      "b": "Protein synthesis",
+      "c": "Energy production",
+      "d": "Cell division"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 11,
+    "question": "Lysosomes contain:",
+    "options": {
+      "a": "Hormones",
+      "b": "Digestive enzymes",
+      "c": "ATP",
+      "d": "DNA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Suicide bags of the cell:",
+    "options": {
+      "a": "Ribosomes",
+      "b": "Lysosomes",
+      "c": "Peroxisomes",
+      "d": "Golgi"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Peroxisomes detoxify:",
+    "options": {
+      "a": "CO\u2082",
+      "b": "H\u2082O\u2082",
+      "c": "Glucose",
+      "d": "Lipids"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Nucleus contains:",
+    "options": {
+      "a": "RNA only",
+      "b": "DNA only",
+      "c": "Both DNA and RNA",
+      "d": "Lipids"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 15,
+    "question": "Nuclear membrane is:",
+    "options": {
+      "a": "Single layered",
+      "b": "Double layered",
+      "c": "Triple layered",
+      "d": "Absent"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "Chromatin is made of:",
+    "options": {
+      "a": "DNA + protein",
+      "b": "RNA",
+      "c": "Lipid",
+      "d": "Carbohydrate"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 17,
+    "question": "Euchromatin is:",
+    "options": {
+      "a": "Inactive DNA",
+      "b": "Active DNA",
+      "c": "Mitochondrial DNA",
+      "d": "RNA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Osmosis is movement of:",
+    "options": {
+      "a": "Solute",
+      "b": "Solvent",
+      "c": "Ions",
+      "d": "Proteins"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "Active transport requires:",
+    "options": {
+      "a": "Diffusion",
+      "b": "No energy",
+      "c": "ATP",
+      "d": "Osmosis"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 20,
+    "question": "Na\u207a/K\u207a pump moves:",
+    "options": {
+      "a": "2 Na\u207a out, 3 K\u207a in",
+      "b": "3 Na\u207a out, 2 K\u207a in",
+      "c": "Equal ions",
+      "d": "Only Na\u207a"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Facilitated diffusion needs:",
+    "options": {
+      "a": "ATP",
+      "b": "Carrier protein",
+      "c": "Pump",
+      "d": "Energy"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "Endocytosis is:",
+    "options": {
+      "a": "Cell eating",
+      "b": "Cell drinking",
+      "c": "Intake of material",
+      "d": "Release of material"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 23,
+    "question": "Exocytosis is:",
+    "options": {
+      "a": "Intake",
+      "b": "Release",
+      "c": "Osmosis",
+      "d": "Diffusion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Pinocytosis means:",
+    "options": {
+      "a": "Cell eating",
+      "b": "Cell drinking",
+      "c": "Cell killing",
+      "d": "Cell division"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "Phagocytosis means:",
+    "options": {
+      "a": "Cell drinking",
+      "b": "Cell eating",
+      "c": "Diffusion",
+      "d": "Osmosis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Resting membrane potential is mainly due to:",
+    "options": {
+      "a": "Na\u207a",
+      "b": "K\u207a",
+      "c": "Ca\u00b2\u207a",
+      "d": "Cl\u207b"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "Normal resting membrane potential:",
+    "options": {
+      "a": "\u201320 mV",
+      "b": "\u201340 mV",
+      "c": "\u201370 mV",
+      "d": "+70 mV"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 28,
+    "question": "Cell division occurs by:",
+    "options": {
+      "a": "Mitosis",
+      "b": "Meiosis",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 29,
+    "question": "Mitosis occurs in:",
+    "options": {
+      "a": "Germ cells",
+      "b": "Somatic cells",
+      "c": "Ova",
+      "d": "Sperm"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 30,
+    "question": "Meiosis occurs in:",
+    "options": {
+      "a": "Somatic cells",
+      "b": "Skin",
+      "c": "Germ cells",
+      "d": "Muscle"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 31,
+    "question": "DNA replication occurs in:",
+    "options": {
+      "a": "G1 phase",
+      "b": "S phase",
+      "c": "G2 phase",
+      "d": "M phase"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "Cell cycle has phases:",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 33,
+    "question": "Centrioles help in:",
+    "options": {
+      "a": "Respiration",
+      "b": "Cell division",
+      "c": "Protein synthesis",
+      "d": "Secretion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Cytoskeleton includes:",
+    "options": {
+      "a": "Microtubules",
+      "b": "Microfilaments",
+      "c": "Intermediate filaments",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 35,
+    "question": "Cilia help in:",
+    "options": {
+      "a": "Movement",
+      "b": "Respiration",
+      "c": "Nutrition",
+      "d": "Secretion"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 36,
+    "question": "Flagella present in:",
+    "options": {
+      "a": "RBC",
+      "b": "Sperm",
+      "c": "Neuron",
+      "d": "Muscle"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "Glycocalyx is:",
+    "options": {
+      "a": "Protein coat",
+      "b": "Lipid coat",
+      "c": "Carbohydrate coat",
+      "d": "DNA coat"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 38,
+    "question": "Cell junction that prevents leakage:",
+    "options": {
+      "a": "Gap junction",
+      "b": "Tight junction",
+      "c": "Desmosome",
+      "d": "Hemidesmosome"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "Gap junction allows:",
+    "options": {
+      "a": "Mechanical strength",
+      "b": "Communication",
+      "c": "Attachment",
+      "d": "Protection"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 40,
+    "question": "Desmosomes provide:",
+    "options": {
+      "a": "Transport",
+      "b": "Strength",
+      "c": "Secretion",
+      "d": "Diffusion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Mitochondrial DNA is:",
+    "options": {
+      "a": "Linear",
+      "b": "Circular",
+      "c": "Double stranded RNA",
+      "d": "Single stranded"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Mitochondria are inherited from:",
+    "options": {
+      "a": "Father",
+      "b": "Mother",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "Cell membrane is:",
+    "options": {
+      "a": "Permeable",
+      "b": "Semi-permeable",
+      "c": "Impermeable",
+      "d": "Rigid"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Transport against gradient:",
+    "options": {
+      "a": "Diffusion",
+      "b": "Facilitated diffusion",
+      "c": "Active transport",
+      "d": "Osmosis"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 45,
+    "question": "Largest organelle:",
+    "options": {
+      "a": "Ribosome",
+      "b": "Lysosome",
+      "c": "Nucleus",
+      "d": "Mitochondria"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 46,
+    "question": "Total bones in adult human:",
+    "options": {
+      "a": "200",
+      "b": "206",
+      "c": "210",
+      "d": "215"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Axial skeleton includes:",
+    "options": {
+      "a": "Limbs",
+      "b": "Skull, vertebrae",
+      "c": "Pelvic girdle",
+      "d": "Shoulder girdle"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Appendicular skeleton includes:",
+    "options": {
+      "a": "Skull",
+      "b": "Vertebral column",
+      "c": "Limbs",
+      "d": "Thoracic cage"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 49,
+    "question": "Long bone example:",
+    "options": {
+      "a": "Skull",
+      "b": "Rib",
+      "c": "Femur",
+      "d": "Vertebra"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 50,
+    "question": "Short bone example:",
+    "options": {
+      "a": "Femur",
+      "b": "Humerus",
+      "c": "Carpals",
+      "d": "Skull"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 51,
+    "question": "Flat bone example:",
+    "options": {
+      "a": "Femur",
+      "b": "Skull",
+      "c": "Carpals",
+      "d": "Phalanges"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Irregular bone example:",
+    "options": {
+      "a": "Femur",
+      "b": "Rib",
+      "c": "Vertebra",
+      "d": "Ulna"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 53,
+    "question": "Bone cells include:",
+    "options": {
+      "a": "Osteoblast",
+      "b": "Osteocyte",
+      "c": "Osteoclast",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 54,
+    "question": "Osteoblast function:",
+    "options": {
+      "a": "Bone resorption",
+      "b": "Bone formation",
+      "c": "Calcium removal",
+      "d": "None"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "Osteoclast function:",
+    "options": {
+      "a": "Bone formation",
+      "b": "Bone resorption",
+      "c": "Protein synthesis",
+      "d": "ATP production"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 56,
+    "question": "Osteocytes are:",
+    "options": {
+      "a": "Immature cells",
+      "b": "Mature bone cells",
+      "c": "Destroy bone",
+      "d": "Blood cells"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "Compact bone structural unit:",
+    "options": {
+      "a": "Haversian system",
+      "b": "Lamella",
+      "c": "Canaliculi",
+      "d": "Lacuna"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 58,
+    "question": "Haversian canal contains:",
+    "options": {
+      "a": "Nerve & blood vessels",
+      "b": "Cartilage",
+      "c": "Bone marrow",
+      "d": "Calcium"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 59,
+    "question": "Spongy bone lacks:",
+    "options": {
+      "a": "Osteocytes",
+      "b": "Lamella",
+      "c": "Haversian system",
+      "d": "Matrix"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 60,
+    "question": "Bone matrix contains:",
+    "options": {
+      "a": "Collagen",
+      "b": "Calcium salts",
+      "c": "Phosphate",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 61,
+    "question": "Bone growth in length occurs at:",
+    "options": {
+      "a": "Diaphysis",
+      "b": "Epiphysis",
+      "c": "Epiphyseal plate",
+      "d": "Periosteum"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 62,
+    "question": "Bone growth in thickness occurs at:",
+    "options": {
+      "a": "Epiphysis",
+      "b": "Diaphysis",
+      "c": "Periosteum",
+      "d": "Medulla"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 63,
+    "question": "Periosteum function:",
+    "options": {
+      "a": "Nutrition",
+      "b": "Growth",
+      "c": "Repair",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 64,
+    "question": "Red bone marrow produces:",
+    "options": {
+      "a": "Fat",
+      "b": "RBCs",
+      "c": "Hormones",
+      "d": "Enzymes"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Yellow marrow stores:",
+    "options": {
+      "a": "Blood",
+      "b": "Fat",
+      "c": "Calcium",
+      "d": "Protein"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "Cartilage lacks:",
+    "options": {
+      "a": "Cells",
+      "b": "Blood vessels",
+      "c": "Matrix",
+      "d": "Fibers"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 67,
+    "question": "Hyaline cartilage found in:",
+    "options": {
+      "a": "Ear",
+      "b": "Nose",
+      "c": "Intervertebral disc",
+      "d": "Pubic symphysis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "Fibrocartilage found in:",
+    "options": {
+      "a": "Nose",
+      "b": "Trachea",
+      "c": "Intervertebral disc",
+      "d": "Ear"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 69,
+    "question": "Elastic cartilage found in:",
+    "options": {
+      "a": "Nose",
+      "b": "Ear",
+      "c": "Rib",
+      "d": "Disc"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Joint with no movement:",
+    "options": {
+      "a": "Synovial",
+      "b": "Fibrous",
+      "c": "Cartilaginous",
+      "d": "Ball and socket"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 71,
+    "question": "Freely movable joints:",
+    "options": {
+      "a": "Fibrous",
+      "b": "Cartilaginous",
+      "c": "Synovial",
+      "d": "Fixed"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 72,
+    "question": "Ball and socket joint:",
+    "options": {
+      "a": "Knee",
+      "b": "Elbow",
+      "c": "Shoulder",
+      "d": "Ankle"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 73,
+    "question": "Hinge joint:",
+    "options": {
+      "a": "Shoulder",
+      "b": "Hip",
+      "c": "Elbow",
+      "d": "Wrist"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 74,
+    "question": "Pivot joint:",
+    "options": {
+      "a": "Knee",
+      "b": "Elbow",
+      "c": "Atlas-axis",
+      "d": "Hip"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 75,
+    "question": "Saddle joint:",
+    "options": {
+      "a": "Wrist",
+      "b": "Thumb",
+      "c": "Knee",
+      "d": "Hip"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "Calcium metabolism regulated by:",
+    "options": {
+      "a": "Thyroxine",
+      "b": "Insulin",
+      "c": "Parathormone",
+      "d": "Adrenaline"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 77,
+    "question": "Vitamin D helps in:",
+    "options": {
+      "a": "Calcium absorption",
+      "b": "Protein synthesis",
+      "c": "Fat metabolism",
+      "d": "RBC production"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 78,
+    "question": "Deficiency of Vitamin D causes:",
+    "options": {
+      "a": "Scurvy",
+      "b": "Rickets",
+      "c": "Anemia",
+      "d": "Goiter"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "Fracture healing involves:",
+    "options": {
+      "a": "Hematoma",
+      "b": "Callus",
+      "c": "Remodeling",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 80,
+    "question": "Osteoporosis is:",
+    "options": {
+      "a": "Increased bone mass",
+      "b": "Decreased bone mass",
+      "c": "Infection",
+      "d": "Cancer"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "Paget disease affects:",
+    "options": {
+      "a": "Cartilage",
+      "b": "Bone remodeling",
+      "c": "Muscle",
+      "d": "Nerve"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Bone is store of:",
+    "options": {
+      "a": "Iron",
+      "b": "Calcium",
+      "c": "Potassium",
+      "d": "Sodium"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Thoracic cage protects:",
+    "options": {
+      "a": "Brain",
+      "b": "Heart and lungs",
+      "c": "Liver",
+      "d": "Kidney"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 84,
+    "question": "Vertebral column has:",
+    "options": {
+      "a": "31 vertebrae",
+      "b": "33 vertebrae",
+      "c": "35 vertebrae",
+      "d": "30 vertebrae"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "Cervical vertebrae:",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "12",
+      "d": "10"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Thoracic vertebrae:",
+    "options": {
+      "a": "7",
+      "b": "10",
+      "c": "12",
+      "d": "5"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 87,
+    "question": "Lumbar vertebrae:",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 88,
+    "question": "True ribs are:",
+    "options": {
+      "a": "1\u20137",
+      "b": "1\u201310",
+      "c": "8\u201312",
+      "d": "11\u201312"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 89,
+    "question": "Floating ribs:",
+    "options": {
+      "a": "1\u20137",
+      "b": "8\u201310",
+      "c": "11\u201312",
+      "d": "1\u201312"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 90,
+    "question": "Skull bones are joined by:",
+    "options": {
+      "a": "Joints",
+      "b": "Sutures",
+      "c": "Cartilage",
+      "d": "Ligaments"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 91,
+    "question": "Homeostasis means:",
+    "options": {
+      "a": "Disease",
+      "b": "Constant internal environment",
+      "c": "Growth",
+      "d": "Aging"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Term homeostasis given by:",
+    "options": {
+      "a": "Claude Bernard",
+      "b": "Walter Cannon",
+      "c": "Darwin",
+      "d": "Pavlov"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 93,
+    "question": "Internal environment maintained within:",
+    "options": {
+      "a": "Narrow limits",
+      "b": "Wide limits",
+      "c": "No limits",
+      "d": "Random"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 94,
+    "question": "Negative feedback:",
+    "options": {
+      "a": "Enhances change",
+      "b": "Opposes change",
+      "c": "Causes disease",
+      "d": "No effect"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Positive feedback:",
+    "options": {
+      "a": "Opposes change",
+      "b": "Enhances change",
+      "c": "Maintains constant",
+      "d": "None"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 96,
+    "question": "Example of negative feedback:",
+    "options": {
+      "a": "Blood clotting",
+      "b": "Labor",
+      "c": "Temperature control",
+      "d": "Ovulation"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 97,
+    "question": "Example of positive feedback:",
+    "options": {
+      "a": "Thermoregulation",
+      "b": "Blood glucose control",
+      "c": "Blood clotting",
+      "d": "Respiration"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 98,
+    "question": "Control system has:",
+    "options": {
+      "a": "Receptor",
+      "b": "Control center",
+      "c": "Effector",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 99,
+    "question": "Thermoregulation controlled by:",
+    "options": {
+      "a": "Cerebrum",
+      "b": "Cerebellum",
+      "c": "Hypothalamus",
+      "d": "Medulla"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 100,
+    "question": "Normal body temperature:",
+    "options": {
+      "a": "35\u00b0C",
+      "b": "36.5\u201337\u00b0C",
+      "c": "38\u00b0C",
+      "d": "40\u00b0C"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 101,
+    "question": "Heat loss occurs by:",
+    "options": {
+      "a": "Radiation",
+      "b": "Conduction",
+      "c": "Evaporation",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 102,
+    "question": "Fever is due to:",
+    "options": {
+      "a": "Heat loss",
+      "b": "Reset of thermostat",
+      "c": "Infection only",
+      "d": "Dehydration"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 103,
+    "question": "Blood pH normal:",
+    "options": {
+      "a": "6.8",
+      "b": "7.0",
+      "c": "7.35\u20137.45",
+      "d": "7.8"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 104,
+    "question": "Acid-base balance regulated by:",
+    "options": {
+      "a": "Lungs",
+      "b": "Kidneys",
+      "c": "Buffers",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 105,
+    "question": "Major buffer system:",
+    "options": {
+      "a": "Protein",
+      "b": "Phosphate",
+      "c": "Bicarbonate",
+      "d": "Hemoglobin"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 106,
+    "question": "Acidosis means:",
+    "options": {
+      "a": "pH increased",
+      "b": "pH decreased",
+      "c": "Normal pH",
+      "d": "Alkaline"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 107,
+    "question": "Alkalosis means:",
+    "options": {
+      "a": "pH decreased",
+      "b": "pH increased",
+      "c": "Normal pH",
+      "d": "Acidic"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 108,
+    "question": "Blood glucose regulated by:",
+    "options": {
+      "a": "Insulin",
+      "b": "Glucagon",
+      "c": "Both",
+      "d": "Thyroxine"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 109,
+    "question": "Insulin decreases:",
+    "options": {
+      "a": "Blood glucose",
+      "b": "Blood calcium",
+      "c": "Blood sodium",
+      "d": "BP"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 110,
+    "question": "Glucagon increases:",
+    "options": {
+      "a": "Blood glucose",
+      "b": "Blood calcium",
+      "c": "Blood sodium",
+      "d": "BP"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 111,
+    "question": "Normal blood glucose (fasting):",
+    "options": {
+      "a": "40\u201360 mg/dL",
+      "b": "70\u2013110 mg/dL",
+      "c": "120\u2013150 mg/dL",
+      "d": "200 mg/dL"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 112,
+    "question": "Water balance controlled by:",
+    "options": {
+      "a": "ADH",
+      "b": "Aldosterone",
+      "c": "Both",
+      "d": "Insulin"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 113,
+    "question": "ADH acts on:",
+    "options": {
+      "a": "Liver",
+      "b": "Kidney",
+      "c": "Heart",
+      "d": "Brain"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 114,
+    "question": "Dehydration causes:",
+    "options": {
+      "a": "Hemodilution",
+      "b": "Hemoconcentration",
+      "c": "Anemia",
+      "d": "Hypotension only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 115,
+    "question": "Osmoregulation maintains:",
+    "options": {
+      "a": "pH",
+      "b": "Osmolarity",
+      "c": "Temperature",
+      "d": "BP"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 116,
+    "question": "Normal plasma osmolarity:",
+    "options": {
+      "a": "150",
+      "b": "280\u2013295",
+      "c": "350",
+      "d": "400"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 117,
+    "question": "Electrolyte balance important for:",
+    "options": {
+      "a": "Nerve impulse",
+      "b": "Muscle contraction",
+      "c": "Cell function",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 118,
+    "question": "Sodium is main:",
+    "options": {
+      "a": "Intracellular ion",
+      "b": "Extracellular ion",
+      "c": "Bone ion",
+      "d": "RBC ion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 119,
+    "question": "Potassium is main:",
+    "options": {
+      "a": "Extracellular ion",
+      "b": "Intracellular ion",
+      "c": "Bone ion",
+      "d": "Plasma ion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 120,
+    "question": "Calcium important for:",
+    "options": {
+      "a": "Muscle contraction",
+      "b": "Clotting",
+      "c": "Bone",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 121,
+    "question": "Homeostasis failure leads to:",
+    "options": {
+      "a": "Health",
+      "b": "Disease",
+      "c": "Growth",
+      "d": "Repair"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 122,
+    "question": "Shock affects:",
+    "options": {
+      "a": "Temperature",
+      "b": "BP",
+      "c": "Perfusion",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 123,
+    "question": "Blood pressure regulated by:",
+    "options": {
+      "a": "Baroreceptors",
+      "b": "Kidneys",
+      "c": "Hormones",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 124,
+    "question": "Renin-angiotensin system increases:",
+    "options": {
+      "a": "BP",
+      "b": "Urine output",
+      "c": "Heat loss",
+      "d": "pH"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 125,
+    "question": "Aldosterone increases:",
+    "options": {
+      "a": "Sodium excretion",
+      "b": "Sodium reabsorption",
+      "c": "Potassium retention",
+      "d": "Water loss"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 126,
+    "question": "Sweating causes loss of:",
+    "options": {
+      "a": "Sodium",
+      "b": "Water",
+      "c": "Both",
+      "d": "Calcium"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 127,
+    "question": "Hypothermia means:",
+    "options": {
+      "a": "High temp",
+      "b": "Low temp",
+      "c": "Normal temp",
+      "d": "Fever"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 128,
+    "question": "Hyperthermia means:",
+    "options": {
+      "a": "Low temp",
+      "b": "High temp",
+      "c": "Normal",
+      "d": "Infection"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 129,
+    "question": "pH below 7.35 is:",
+    "options": {
+      "a": "Normal",
+      "b": "Acidosis",
+      "c": "Alkalosis",
+      "d": "Neutral"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 130,
+    "question": "pH above 7.45 is:",
+    "options": {
+      "a": "Normal",
+      "b": "Acidosis",
+      "c": "Alkalosis",
+      "d": "Neutral"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 131,
+    "question": "Kidneys regulate:",
+    "options": {
+      "a": "Water",
+      "b": "Electrolytes",
+      "c": "Acid-base",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 132,
+    "question": "Homeostasis works via:",
+    "options": {
+      "a": "Nervous system",
+      "b": "Endocrine system",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 133,
+    "question": "Set point is:",
+    "options": {
+      "a": "Fixed value",
+      "b": "Desired value",
+      "c": "Random",
+      "d": "Zero"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 134,
+    "question": "Stress disturbs:",
+    "options": {
+      "a": "Homeostasis",
+      "b": "Growth",
+      "c": "Repair",
+      "d": "Memory"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 135,
+    "question": "Ultimate aim of homeostasis:",
+    "options": {
+      "a": "Growth",
+      "b": "Survival",
+      "c": "Reproduction",
+      "d": "Movement"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 136,
+    "question": "Functional unit of nervous system:",
+    "options": {
+      "a": "Axon",
+      "b": "Dendrite",
+      "c": "Neuron",
+      "d": "Synapse"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 137,
+    "question": "Nervous system is divided into:",
+    "options": {
+      "a": "CNS and PNS",
+      "b": "Somatic and autonomic",
+      "c": "Sympathetic and parasympathetic",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 138,
+    "question": "Central nervous system consists of:",
+    "options": {
+      "a": "Brain only",
+      "b": "Spinal cord only",
+      "c": "Brain and spinal cord",
+      "d": "Nerves"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 139,
+    "question": "Peripheral nervous system consists of:",
+    "options": {
+      "a": "Brain",
+      "b": "Spinal cord",
+      "c": "Cranial and spinal nerves",
+      "d": "Cerebellum"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 140,
+    "question": "Autonomic nervous system controls:",
+    "options": {
+      "a": "Voluntary muscles",
+      "b": "Involuntary activities",
+      "c": "Skeletal muscles",
+      "d": "Reflex only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 141,
+    "question": "Neuron parts include:",
+    "options": {
+      "a": "Dendrite",
+      "b": "Axon",
+      "c": "Cell body",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 142,
+    "question": "Dendrites function:",
+    "options": {
+      "a": "Carry impulse away",
+      "b": "Carry impulse toward cell body",
+      "c": "Produce neurotransmitter",
+      "d": "Insulation"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 143,
+    "question": "Axon function:",
+    "options": {
+      "a": "Receive impulse",
+      "b": "Carry impulse away",
+      "c": "Nutrition",
+      "d": "Protection"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 144,
+    "question": "Myelin sheath is formed by:",
+    "options": {
+      "a": "Astrocytes",
+      "b": "Schwann cells",
+      "c": "Microglia",
+      "d": "Oligodendrocytes only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 145,
+    "question": "Myelin sheath increases:",
+    "options": {
+      "a": "Resistance",
+      "b": "Speed of conduction",
+      "c": "Refractory period",
+      "d": "Threshold"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 146,
+    "question": "Node of Ranvier allows:",
+    "options": {
+      "a": "Continuous conduction",
+      "b": "Saltatory conduction",
+      "c": "Slow conduction",
+      "d": "No conduction"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 147,
+    "question": "Saltatory conduction occurs in:",
+    "options": {
+      "a": "Unmyelinated fibers",
+      "b": "Myelinated fibers",
+      "c": "All fibers",
+      "d": "Sensory only"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 148,
+    "question": "Synapse is:",
+    "options": {
+      "a": "Nerve fiber",
+      "b": "Junction between neurons",
+      "c": "Cell body",
+      "d": "Muscle fiber"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 149,
+    "question": "Chemical synapse uses:",
+    "options": {
+      "a": "Ions",
+      "b": "Enzymes",
+      "c": "Neurotransmitters",
+      "d": "Hormones"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 150,
+    "question": "Electrical synapse allows:",
+    "options": {
+      "a": "One-way conduction",
+      "b": "Two-way conduction",
+      "c": "Slow conduction",
+      "d": "No conduction"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 151,
+    "question": "Neurotransmitter at neuromuscular junction:",
+    "options": {
+      "a": "Dopamine",
+      "b": "Noradrenaline",
+      "c": "Acetylcholine",
+      "d": "GABA"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 152,
+    "question": "Excitatory neurotransmitter:",
+    "options": {
+      "a": "GABA",
+      "b": "Glycine",
+      "c": "Glutamate",
+      "d": "Serotonin"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 153,
+    "question": "Inhibitory neurotransmitter:",
+    "options": {
+      "a": "Glutamate",
+      "b": "Acetylcholine",
+      "c": "GABA",
+      "d": "Dopamine"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 154,
+    "question": "Resting membrane potential is due to:",
+    "options": {
+      "a": "Na\u207a influx",
+      "b": "K\u207a efflux",
+      "c": "Ca\u00b2\u207a influx",
+      "d": "Cl\u207b influx"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 155,
+    "question": "Action potential occurs when:",
+    "options": {
+      "a": "Threshold reached",
+      "b": "Membrane hyperpolarizes",
+      "c": "ATP used",
+      "d": "Na\u207a pump stops"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 156,
+    "question": "Depolarization is due to:",
+    "options": {
+      "a": "K\u207a exit",
+      "b": "Na\u207a entry",
+      "c": "Cl\u207b entry",
+      "d": "Ca\u00b2\u207a exit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 157,
+    "question": "Repolarization is due to:",
+    "options": {
+      "a": "Na\u207a entry",
+      "b": "K\u207a exit",
+      "c": "Ca\u00b2\u207a entry",
+      "d": "Cl\u207b exit"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 158,
+    "question": "All-or-none law applies to:",
+    "options": {
+      "a": "Graded potential",
+      "b": "Action potential",
+      "c": "Synapse",
+      "d": "Muscle tone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 159,
+    "question": "Refractory period ensures:",
+    "options": {
+      "a": "Continuous firing",
+      "b": "One-way conduction",
+      "c": "Slow impulse",
+      "d": "No impulse"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 160,
+    "question": "Absolute refractory period means:",
+    "options": {
+      "a": "Strong stimulus can fire",
+      "b": "No stimulus can fire",
+      "c": "Weak stimulus fires",
+      "d": "Normal response"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 161,
+    "question": "Reflex arc includes:",
+    "options": {
+      "a": "Receptor",
+      "b": "Effector",
+      "c": "Neuron",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 162,
+    "question": "Knee jerk reflex is:",
+    "options": {
+      "a": "Polysynaptic",
+      "b": "Monosynaptic",
+      "c": "Autonomic",
+      "d": "Cranial"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 163,
+    "question": "Spinal cord controls:",
+    "options": {
+      "a": "Consciousness",
+      "b": "Reflex actions",
+      "c": "Memory",
+      "d": "Emotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 164,
+    "question": "Cerebrum controls:",
+    "options": {
+      "a": "Reflexes",
+      "b": "Balance",
+      "c": "Voluntary actions",
+      "d": "Respiration"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 165,
+    "question": "Cerebellum function:",
+    "options": {
+      "a": "Memory",
+      "b": "Coordination and balance",
+      "c": "Reflex",
+      "d": "Vision"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 166,
+    "question": "Medulla controls:",
+    "options": {
+      "a": "Heart rate",
+      "b": "Respiration",
+      "c": "BP",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 167,
+    "question": "Thalamus acts as:",
+    "options": {
+      "a": "Memory center",
+      "b": "Relay station",
+      "c": "Balance center",
+      "d": "Vision center"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 168,
+    "question": "Hypothalamus controls:",
+    "options": {
+      "a": "Temperature",
+      "b": "Hunger",
+      "c": "Endocrine",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 169,
+    "question": "Sympathetic nervous system:",
+    "options": {
+      "a": "Rest and digest",
+      "b": "Fight or flight",
+      "c": "Sleep",
+      "d": "Growth"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 170,
+    "question": "Parasympathetic system:",
+    "options": {
+      "a": "Increases HR",
+      "b": "Decreases digestion",
+      "c": "Rest and digest",
+      "d": "Stress response"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 171,
+    "question": "Sympathetic neurotransmitter:",
+    "options": {
+      "a": "Acetylcholine",
+      "b": "Noradrenaline",
+      "c": "GABA",
+      "d": "Dopamine"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 172,
+    "question": "Parasympathetic neurotransmitter:",
+    "options": {
+      "a": "Noradrenaline",
+      "b": "Dopamine",
+      "c": "Acetylcholine",
+      "d": "Serotonin"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 173,
+    "question": "Cranial nerves are:",
+    "options": {
+      "a": "10 pairs",
+      "b": "11 pairs",
+      "c": "12 pairs",
+      "d": "13 pairs"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 174,
+    "question": "Spinal nerves are:",
+    "options": {
+      "a": "29 pairs",
+      "b": "30 pairs",
+      "c": "31 pairs",
+      "d": "32 pairs"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 175,
+    "question": "Sensory neurons carry impulses:",
+    "options": {
+      "a": "CNS to muscle",
+      "b": "CNS to gland",
+      "c": "Receptor to CNS",
+      "d": "CNS to receptor"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 176,
+    "question": "Motor neurons carry impulses:",
+    "options": {
+      "a": "Receptor to CNS",
+      "b": "CNS to effector",
+      "c": "CNS to CNS",
+      "d": "Muscle to CNS"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 177,
+    "question": "Mixed nerves contain:",
+    "options": {
+      "a": "Sensory fibers only",
+      "b": "Motor fibers only",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 178,
+    "question": "Gray matter contains:",
+    "options": {
+      "a": "Myelinated axons",
+      "b": "Cell bodies",
+      "c": "Nerves",
+      "d": "Fat"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 179,
+    "question": "White matter contains:",
+    "options": {
+      "a": "Cell bodies",
+      "b": "Unmyelinated fibers",
+      "c": "Myelinated fibers",
+      "d": "Neurons only"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 180,
+    "question": "Damage to motor neuron causes:",
+    "options": {
+      "a": "Loss of sensation",
+      "b": "Paralysis",
+      "c": "Pain",
+      "d": "Fever"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 181,
+    "question": "Physiology is study of:",
+    "options": {
+      "a": "Structure",
+      "b": "Function",
+      "c": "Disease",
+      "d": "Drugs"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 182,
+    "question": "Structure\u2013function relationship is:",
+    "options": {
+      "a": "Unrelated",
+      "b": "Random",
+      "c": "Closely related",
+      "d": "Opposite"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 183,
+    "question": "Homeostasis is maintained by:",
+    "options": {
+      "a": "Nervous system",
+      "b": "Endocrine system",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 184,
+    "question": "Feedback mechanism helps:",
+    "options": {
+      "a": "Disturb balance",
+      "b": "Maintain balance",
+      "c": "Cause disease",
+      "d": "Stop function"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 185,
+    "question": "Negative feedback is:",
+    "options": {
+      "a": "Harmful",
+      "b": "Common",
+      "c": "Rare",
+      "d": "Absent"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 186,
+    "question": "Positive feedback example:",
+    "options": {
+      "a": "Blood pressure",
+      "b": "Temperature control",
+      "c": "Childbirth",
+      "d": "Glucose control"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 187,
+    "question": "Enzymes are:",
+    "options": {
+      "a": "Lipids",
+      "b": "Proteins",
+      "c": "Carbohydrates",
+      "d": "Minerals"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 188,
+    "question": "Enzymes speed up reactions by:",
+    "options": {
+      "a": "Increasing energy",
+      "b": "Lowering activation energy",
+      "c": "Using ATP",
+      "d": "Slowing reaction"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 189,
+    "question": "Metabolism includes:",
+    "options": {
+      "a": "Anabolism",
+      "b": "Catabolism",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 190,
+    "question": "Anabolism means:",
+    "options": {
+      "a": "Breakdown",
+      "b": "Energy release",
+      "c": "Synthesis",
+      "d": "Waste removal"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 191,
+    "question": "Catabolism means:",
+    "options": {
+      "a": "Synthesis",
+      "b": "Breakdown",
+      "c": "Growth",
+      "d": "Repair"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 192,
+    "question": "ATP is:",
+    "options": {
+      "a": "Protein",
+      "b": "Energy currency",
+      "c": "Enzyme",
+      "d": "Hormone"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 193,
+    "question": "Normal physiological range is:",
+    "options": {
+      "a": "Wide",
+      "b": "Narrow",
+      "c": "Infinite",
+      "d": "Random"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 194,
+    "question": "Adaptation helps:",
+    "options": {
+      "a": "Disease",
+      "b": "Survival",
+      "c": "Aging",
+      "d": "Injury"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 195,
+    "question": "Stress response mediated by:",
+    "options": {
+      "a": "Parasympathetic",
+      "b": "Sympathetic",
+      "c": "Digestive",
+      "d": "Renal"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 196,
+    "question": "Control systems include:",
+    "options": {
+      "a": "Input",
+      "b": "Output",
+      "c": "Feedback",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 197,
+    "question": "Set point is:",
+    "options": {
+      "a": "Fixed level",
+      "b": "Desired level",
+      "c": "Random level",
+      "d": "Zero level"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 198,
+    "question": "Internal environment term given by:",
+    "options": {
+      "a": "Walter Cannon",
+      "b": "Claude Bernard",
+      "c": "Pavlov",
+      "d": "Darwin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 199,
+    "question": "Physiology is closely related to:",
+    "options": {
+      "a": "Anatomy",
+      "b": "Biochemistry",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 200,
+    "question": "Disturbance of physiology leads to:",
+    "options": {
+      "a": "Health",
+      "b": "Disease",
+      "c": "Growth",
+      "d": "Repair"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 201,
+    "question": "Largest part of the brain:",
+    "options": {
+      "a": "Cerebellum",
+      "b": "Cerebrum",
+      "c": "Brainstem",
+      "d": "Thalamus"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 202,
+    "question": "Cerebrum is divided into:",
+    "options": {
+      "a": "Lobes",
+      "b": "Hemispheres",
+      "c": "Both A and B",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 203,
+    "question": "Left hemisphere primarily controls:",
+    "options": {
+      "a": "Creativity",
+      "b": "Logical thinking and language",
+      "c": "Spatial skills",
+      "d": "Emotions"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 204,
+    "question": "Right hemisphere primarily controls:",
+    "options": {
+      "a": "Language",
+      "b": "Logic",
+      "c": "Spatial and artistic skills",
+      "d": "Speech production"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 205,
+    "question": "Frontal lobe function:",
+    "options": {
+      "a": "Vision",
+      "b": "Voluntary motor control and decision making",
+      "c": "Hearing",
+      "d": "Balance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 206,
+    "question": "Precentral gyrus controls:",
+    "options": {
+      "a": "Sensory",
+      "b": "Voluntary movement",
+      "c": "Language comprehension",
+      "d": "Memory"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 207,
+    "question": "Broca\u2019s area is responsible for:",
+    "options": {
+      "a": "Language comprehension",
+      "b": "Language production",
+      "c": "Vision",
+      "d": "Emotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 208,
+    "question": "Damage to Broca\u2019s area causes:",
+    "options": {
+      "a": "Receptive aphasia",
+      "b": "Expressive aphasia",
+      "c": "Blindness",
+      "d": "Ataxia"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 209,
+    "question": "Parietal lobe function:",
+    "options": {
+      "a": "Sensory perception and spatial awareness",
+      "b": "Hearing",
+      "c": "Balance",
+      "d": "Language production"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 210,
+    "question": "Postcentral gyrus controls:",
+    "options": {
+      "a": "Motor",
+      "b": "Sensory",
+      "c": "Vision",
+      "d": "Memory"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 211,
+    "question": "Occipital lobe function:",
+    "options": {
+      "a": "Hearing",
+      "b": "Vision",
+      "c": "Language",
+      "d": "Emotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 212,
+    "question": "Primary visual cortex located in:",
+    "options": {
+      "a": "Frontal lobe",
+      "b": "Occipital lobe",
+      "c": "Temporal lobe",
+      "d": "Parietal lobe"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 213,
+    "question": "Temporal lobe function:",
+    "options": {
+      "a": "Hearing and memory",
+      "b": "Vision",
+      "c": "Motor control",
+      "d": "Balance"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 214,
+    "question": "Wernicke\u2019s area responsible for:",
+    "options": {
+      "a": "Speech production",
+      "b": "Speech comprehension",
+      "c": "Motor coordination",
+      "d": "Emotion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 215,
+    "question": "Damage to Wernicke\u2019s area causes:",
+    "options": {
+      "a": "Expressive aphasia",
+      "b": "Receptive aphasia",
+      "c": "Blindness",
+      "d": "Deafness"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 216,
+    "question": "Cerebellum function:",
+    "options": {
+      "a": "Decision making",
+      "b": "Coordination, balance, posture",
+      "c": "Hearing",
+      "d": "Vision"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 217,
+    "question": "Damage to cerebellum causes:",
+    "options": {
+      "a": "Aphasia",
+      "b": "Ataxia and uncoordinated movements",
+      "c": "Memory loss",
+      "d": "Blindness"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 218,
+    "question": "Brainstem includes:",
+    "options": {
+      "a": "Midbrain, pons, medulla",
+      "b": "Cerebellum and midbrain",
+      "c": "Thalamus and hypothalamus",
+      "d": "Cerebrum and pons"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 219,
+    "question": "Midbrain function:",
+    "options": {
+      "a": "Vision, hearing, motor control",
+      "b": "Language",
+      "c": "Sensory perception",
+      "d": "Memory"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 220,
+    "question": "Pons function:",
+    "options": {
+      "a": "Relays signals between cerebrum and cerebellum, respiration control",
+      "b": "Voluntary movement",
+      "c": "Vision",
+      "d": "Language"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 221,
+    "question": "Medulla oblongata function:",
+    "options": {
+      "a": "Heart rate, respiration, BP control",
+      "b": "Memory",
+      "c": "Hearing",
+      "d": "Vision"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 222,
+    "question": "Diencephalon includes:",
+    "options": {
+      "a": "Thalamus and hypothalamus",
+      "b": "Midbrain and medulla",
+      "c": "Cerebrum",
+      "d": "Cerebellum"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 223,
+    "question": "Thalamus function:",
+    "options": {
+      "a": "Relay sensory information to cortex",
+      "b": "Memory",
+      "c": "Vision",
+      "d": "Language"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 224,
+    "question": "Hypothalamus function:",
+    "options": {
+      "a": "Temperature, hunger, thirst, sleep, endocrine control",
+      "b": "Memory",
+      "c": "Hearing",
+      "d": "Vision"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 225,
+    "question": "Epithalamus includes:",
+    "options": {
+      "a": "Pineal gland",
+      "b": "Thalamus",
+      "c": "Hypothalamus",
+      "d": "Midbrain"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 226,
+    "question": "Pineal gland function:",
+    "options": {
+      "a": "Hormone secretion (melatonin), circadian rhythm",
+      "b": "Motor control",
+      "c": "Hearing",
+      "d": "Memory"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 227,
+    "question": "Limbic system function:",
+    "options": {
+      "a": "Emotion, memory, motivation",
+      "b": "Vision",
+      "c": "Hearing",
+      "d": "Motor control"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 228,
+    "question": "Hippocampus function:",
+    "options": {
+      "a": "Language",
+      "b": "Memory formation",
+      "c": "Emotion",
+      "d": "Balance"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 229,
+    "question": "Amygdala function:",
+    "options": {
+      "a": "Fear and emotion",
+      "b": "Vision",
+      "c": "Hearing",
+      "d": "Voluntary movement"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 230,
+    "question": "Basal ganglia function:",
+    "options": {
+      "a": "Initiation and control of voluntary movement",
+      "b": "Vision",
+      "c": "Memory",
+      "d": "Speech"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 231,
+    "question": "Corpus callosum function:",
+    "options": {
+      "a": "Connects two hemispheres for communication",
+      "b": "Motor control",
+      "c": "Vision",
+      "d": "Memory"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 232,
+    "question": "Ventricles produce:",
+    "options": {
+      "a": "Blood",
+      "b": "Cerebrospinal fluid (CSF)",
+      "c": "Hormones",
+      "d": "Myelin"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 233,
+    "question": "CSF function:",
+    "options": {
+      "a": "Cushion, protection, nutrient transport",
+      "b": "Motor control",
+      "c": "Language",
+      "d": "Vision"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 234,
+    "question": "Circle of Willis located in:",
+    "options": {
+      "a": "Cerebrum",
+      "b": "Brainstem",
+      "c": "Base of brain",
+      "d": "Cerebellum"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 235,
+    "question": "Damage to right parietal lobe causes:",
+    "options": {
+      "a": "Language deficit",
+      "b": "Spatial neglect",
+      "c": "Blindness",
+      "d": "Memory loss"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 236,
+    "question": "Primary motor cortex located in:",
+    "options": {
+      "a": "Precentral gyrus of frontal lobe",
+      "b": "Postcentral gyrus of parietal lobe",
+      "c": "Temporal lobe",
+      "d": "Occipital lobe"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 237,
+    "question": "Primary somatosensory cortex located in:",
+    "options": {
+      "a": "Precentral gyrus",
+      "b": "Postcentral gyrus",
+      "c": "Occipital lobe",
+      "d": "Temporal lobe"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 238,
+    "question": "Brodmann area 17 corresponds to:",
+    "options": {
+      "a": "Primary visual cortex",
+      "b": "Auditory cortex",
+      "c": "Motor cortex",
+      "d": "Prefrontal cortex"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 239,
+    "question": "Auditory cortex located in:",
+    "options": {
+      "a": "Temporal lobe",
+      "b": "Occipital lobe",
+      "c": "Frontal lobe",
+      "d": "Parietal lobe"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 240,
+    "question": "Olfactory cortex located in:",
+    "options": {
+      "a": "Temporal lobe",
+      "b": "Frontal lobe",
+      "c": "Occipital lobe",
+      "d": "Parietal lobe"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 241,
+    "question": "Gustatory cortex located in:",
+    "options": {
+      "a": "Frontal lobe",
+      "b": "Insula and frontal operculum",
+      "c": "Temporal lobe",
+      "d": "Occipital lobe"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 242,
+    "question": "Prefrontal cortex function:",
+    "options": {
+      "a": "Decision making, personality, planning",
+      "b": "Vision",
+      "c": "Hearing",
+      "d": "Motor coordination"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 243,
+    "question": "Brain stem cranial nerve nuclei location:",
+    "options": {
+      "a": "Midbrain: III, IV",
+      "b": "Pons: V, VI, VII, VIII",
+      "c": "Medulla: IX, X, XII",
+      "d": "All"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 244,
+    "question": "Reticular formation located in:",
+    "options": {
+      "a": "Cerebrum",
+      "b": "Brainstem",
+      "c": "Cerebellum",
+      "d": "Thalamus"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 245,
+    "question": "Reticular formation function:",
+    "options": {
+      "a": "Sleep-wake cycle, alertness",
+      "b": "Vision",
+      "c": "Hearing",
+      "d": "Motor control"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 246,
+    "question": "Damage to cerebellar hemispheres causes:",
+    "options": {
+      "a": "Ipsilateral ataxia",
+      "b": "Aphasia",
+      "c": "Hemiplegia",
+      "d": "Blindness"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 247,
+    "question": "Damage to vermis causes:",
+    "options": {
+      "a": "Truncal ataxia",
+      "b": "Limb ataxia",
+      "c": "Blindness",
+      "d": "Deafness"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 248,
+    "question": "Ventromedial hypothalamus controls:",
+    "options": {
+      "a": "Hunger suppression",
+      "b": "Thirst",
+      "c": "Temperature",
+      "d": "Memory"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 249,
+    "question": "Lateral hypothalamus controls:",
+    "options": {
+      "a": "Hunger stimulation",
+      "b": "Thirst",
+      "c": "Temperature",
+      "d": "Memory"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 250,
+    "question": "Preoptic area of hypothalamus controls:",
+    "options": {
+      "a": "Thermoregulation",
+      "b": "Feeding",
+      "c": "Thirst",
+      "d": "Sleep"
+    },
+    "answer": "a"
+  }
+]
